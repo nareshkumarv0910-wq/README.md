@@ -4,26 +4,11 @@
   📍 Chennai, India &nbsp; | &nbsp; 📞 +91 80729 25243
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naresh-kumar-b67b0b326"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nareshkumarv0910-wq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:nareshkumar@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
 I'm passionate about transforming raw data into meaningful business insights. I specialize in building dashboards, solving analytical problems, and visual storytelling. Currently focused on BI/Data Analyst roles and building a standout portfolio.
-
----
-
-## 🚀 Featured Project
-
-### 📊 Customer Insights Dashboard  
-🔗 [Live App](https://customer-insights-dashboard.streamlit.app)  
-🔗 [GitHub Repo](https://github.com/nareshkumarv0910-wq/customer-insights-dashboard)  
-> Built with Streamlit, Plotly, and Python — includes KPIs, segmentation, funnel, and ratings.
 
 ---
 
@@ -56,19 +41,23 @@ I'm passionate about transforming raw data into meaningful business insights. I 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Featured Project
+
+- **Customer Insights Dashboard**  
+  🔗 [Live App](https://customer-insights-dashboard.streamlit.app)  
+  🔗 [GitHub Repo](https://github.com/nareshkumarv0910-wq/customer-insights-dashboard)  
+  *Built with Streamlit, Plotly, and Python — includes KPIs, segmentation, funnel, and ratings.*
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naresh-kumar-b67b0b326)  
+- 🔗 [GitHub](https://github.com/nareshkumarv0910-wq)  
+- 📞 +91 80729 25243
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nareshkumarv0910-wq&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-## 📫 Contact Me
-
-- 📞 +91 80729 25243  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/naresh-kumar-b67b0b326)  
-- 🔗 [GitHub](https://github.com/nareshkumarv0910-wq)
-
----
-
