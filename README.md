@@ -1,49 +1,63 @@
-# 📊 Customer Insights Dashboard
-
-A dynamic Streamlit dashboard that visualizes regional sales, customer segmentation, funnel performance, and product feedback — all in one page. Built with Python, Streamlit, and Plotly, this project showcases five distinct data pipelines and key business metrics.
-
----
-
-🔗 **Live App:** [Click here to view the dashboard](https://customer-insights-dashboard.streamlit.app)  
-🔗 **GitHub Repo:** [Click here to view the code](https://github.com/nareshkumarv0910-wq/customer-insights-dashboard)
+<h1 align="center">Hi, I'm Naresh Kumar 👋</h1>
+<p align="center">
+  <strong>Data Analyst | BI Enthusiast | Dashboard Designer</strong><br>
+  📍 Chennai, India &nbsp; | &nbsp; 📞 +91 80729 25243
+</p>
 
 ---
 
-## 📌 Overview
+## 🚀 About Me
 
-This dashboard simulates a business intelligence tool for analyzing customer behavior and sales performance. It includes:
-
-- 🏢 **Sales by Region** — Bar chart showing total sales across four regions  
-- 🧍‍♂️ **Customer Segment Spend** — Pie chart comparing Premium, Regular, and Budget segments  
-- 📈 **Monthly Sales Trend** — Line chart tracking growth over time  
-- 🔁 **Conversion Funnel** — Funnel chart visualizing drop-off from visitors to purchases  
-- ⭐ **Product Rating Distribution** — Histogram of customer feedback  
-- 🔢 **Key Performance Indicators (KPIs)** — Total Sales, Growth Rate, Conversion Rate, and Avg Rating
+I'm passionate about transforming raw data into meaningful business insights. I specialize in building dashboards, solving analytical problems, and visual storytelling. Currently focused on BI/Data Analyst roles and building a standout portfolio.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Tools & Technologies
 
-- Python  
-- Streamlit  
-- Pandas  
-- Plotly Express
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br><b>SQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><b>Pandas</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><b>NumPy</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/><br><b>Plotly</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br><b>Matplotlib</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br><b>Streamlit</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><b>MySQL</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/><br><b>Excel</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br><b>Power BI</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/><br><b>Canva</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br><b>GitHub</b></td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Run Locally
+## 📊 Featured Project
 
-```bash
-git clone https://github.com/nareshkumarv0910-wq/customer-insights-dashboard.git
-cd customer-insights-dashboard
-pip install -r requirements.txt
-streamlit run app.py
+- **Customer Insights Dashboard**  
+  🔗 [Live App](https://customer-insights-dashboard.streamlit.app)  
+  🔗 [GitHub Repo](https://github.com/nareshkumarv0910-wq/customer-insights-dashboard)  
+  *Built with Streamlit, Plotly, and Python — includes KPIs, segmentation, funnel, and ratings.*
 
-## 👤 Author
+---
 
-**Naresh Kumar**  
-Data Analyst | BI Enthusiast  
-📍 Chennai, India  
-📞 +91 80729 25243  
-🔗 [LinkedIn](https://www.linkedin.com/in/naresh-kumar-b67b0b326)  
-🔗 [GitHub](https://github.com/nareshkumarv0910-wq)
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naresh-kumar-b67b0b326)  
+- 🔗 [GitHub](https://github.com/nareshkumarv0910-wq)  
+- 📞 +91 80729 25243
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nareshkumarv0910-wq&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
